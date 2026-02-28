@@ -1,110 +1,155 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# Perfil do Entrevistado - Carreira em Tecnologia
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+## 🎯 Carreira Escolhida
+- Cientista de Dados / Machine Learning
 
-</p>
+## ⏱️ Disponibilidade
+- 5 horas por semana
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 📚 Experiência
+- Nível: Zero (iniciante)
 
-<br/>
-<br/>
+## 🥅 Objetivo
+- Transição de carreira
 
-## 💻 Sobre o Projeto
+## 👥 Preferência de Trabalho
+- Dados
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+## 💡 Interesses Técnicos
+- Inteligência Artificial
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 🎓 Experiência Prévia Aproveitável
+- Formação em Marketing
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+''''''
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+# Plano de Carreira em Tecnologia - Cientista de Dados / Machine Learning
 
-- _Exemplo_:
+## 🧩 VISÃO DO DIA A DIA
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Como é o trabalho de um(a) Cientista de Dados / Machine Learning:
 
-- [Outros pré-requisitos, se aplicável]
+- Coletar e limpar dados de diferentes fontes  
+- Explorar dados para identificar padrões e insights  
+- Construir e treinar modelos de machine learning  
+- Validar e ajustar modelos para melhorar performance  
+- Comunicar resultados de forma clara para áreas de negócio  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+---
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+## 🧠 MAPA DE SKILLS
 
-- [Lista das habilidades principais a serem desenvolvidas]
+**CORE SKILLS (essenciais):**
+- Python para análise e machine learning  
+- Estatística e probabilidade  
+- Fundamentos de machine learning  
 
-  - [Subhabilidades relacionadas, se aplicável]
+**NICE-TO-HAVE (complementares):**
+- Visualização de dados (Dashboards, Storytelling)  
+- SQL para manipulação de bases  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+**FERRAMENTAS E TECNOLOGIAS:**
+- Jupyter Notebook  
+- Pandas / NumPy  
+- Scikit-learn  
 
-## 🎯 Objetivos e Resultados Esperados
+---
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+## 📅 ROADMAP DE 90 DIAS
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+**ADAPTADO PARA: 5 horas/semana**
 
-<!--START_SECTION:footer-->
+### MÊS 1 - FUNDAMENTOS
 
-<br />
-<br />
+**SEMANA 1-2:**
+- Instalar ambiente Python (Anaconda ou VSCode)  
+- Aprender lógica de programação e Python básico  
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+**SEMANA 3-4:**
+- Introdução a estatística (média, variância, distribuições)  
+- Manipulação de dados com Pandas  
+
+---
+
+### MÊS 2 - PRÁTICA
+
+**SEMANA 5-6:**
+- Aprender regressão linear e logística  
+- Exercícios práticos com datasets simples  
+
+**SEMANA 7-8:**
+- Introdução a classificação e clustering  
+- Criar pequenos modelos com Scikit-learn  
+
+---
+
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+**SEMANA 9-10:**
+- Desenvolver projeto de análise de dados aplicado ao marketing  
+- Criar visualizações e relatórios  
+
+**SEMANA 11-12:**
+- Publicar projeto no GitHub  
+- Simular entrevistas técnicas e comportamentais  
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** Análise de Campanhas de Marketing com Machine Learning  
+
+**O QUE FAZER:**  
+Usar dados fictícios de campanhas de marketing para prever taxa de conversão de clientes.  
+
+**ENTREGÁVEIS:**  
+- Dataset tratado e documentado  
+- Notebook com análise exploratória e modelo preditivo  
+- Dashboard simples com resultados  
+
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Código limpo e comentado  
+- Modelo com métricas apresentadas (accuracy, precision, recall)  
+- Visualizações claras para stakeholders  
+
+**DICA:** Aproveite sua formação em marketing para contextualizar insights e mostrar como dados podem apoiar decisões estratégicas.  
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** "Por que você escolheu a área de dados?"  
+**COMO RESPONDER:** Relacione sua experiência em marketing com a importância dos dados na tomada de decisão.  
+
+**PERGUNTA 2:** "Explique um projeto que você fez."  
+**COMO RESPONDER:** Descreva o projeto de portfólio, destacando problema, solução e impacto.  
+
+**PERGUNTA 3:** "Qual a diferença entre regressão e classificação?"  
+**COMO RESPONDER:** Regressão prevê valores contínuos, classificação prevê categorias.  
+
+**PERGUNTA 4:** "Como você lida com dados faltantes?"  
+**COMO RESPONDER:** Cite técnicas como remoção, imputação por média/mediana ou modelos específicos.  
+
+**PERGUNTA 5:** "Qual métrica você usaria para avaliar um modelo de classificação?"  
+**COMO RESPONDER:** Depende do contexto; pode ser accuracy, precision, recall ou F1-score.  
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** Bootcamp *Cientista de Dados com Python* (DIO)  
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre fundamentos de Python, estatística, machine learning e projetos práticos, alinhados ao seu objetivo de transição de carreira.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Cientista de Dados com Python"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano está pronto!  
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
